@@ -18,4 +18,21 @@ Currently, only has a Windows Powershell script, but you can translated to other
 
 ## Using the maven repo on your project.
 
-https://lazyJunk.github.io/cubyz-maven/maven
+- `VERSION_DATE_HERE`: can be founded in [here](https://lazyjunk.github.io/cubyz-maven/maven/)
+
+```xml
+<repositories>
+  <repository>
+    <id>cubyz-maven</id>
+    <url>https://lazyjunk.github.io/cubyz-maven/maven/</url>
+  </repository>
+</repositories>
+
+<dependencies>
+  <dependency>
+    <groupId>io.pixelguys.cubyz</groupId>
+    <artifactId>cubyz</artifactId>
+    <version>VERSION_DATE_HERE</version>
+  </dependency>
+</dependencies>
+```
