@@ -1,9 +1,8 @@
-# This file contains the list with the data of deploy
+# List of builds:
+
+This is done with the deploy script so I don't normally check if is always correct.
 
 Note: 24H format, which means that over 12 is the same as pm. Example: 14:23 is 2:23pm.
 
--20122021-1423 : 12/20/2021 14:23
--12202021-1734 : 12/20/2021 17:34 
-
--12202021-1820 : 12/20/2021 18:20 
+- 12202021-1901 : 12/20/2021 19:01 
 
