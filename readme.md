@@ -2,6 +2,8 @@
 
 A bunch of builds published to github
 
+Note: This doesn't create fat-jars with all the assets. This is only for dev purposes.
+
 ## Versioning:
 
 The build versions are based on the current date and time that is being build.
